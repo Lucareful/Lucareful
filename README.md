@@ -21,7 +21,6 @@ My motto: Keep your feet on the ground and look up at the stars
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
-
+Go   10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
