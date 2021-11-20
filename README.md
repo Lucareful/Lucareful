@@ -31,7 +31,7 @@ My motto: Keep your feet on the ground and look up at the stars
 ## Github Overview
 
 <img align="left" alt="Lucareful Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lucareful&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucareful)](https://github.com/Lucareful) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucareful&&hide=javascript,html)](https://github.com/Lucareful) 
 
 #### Coding status last week ⌨️
 
