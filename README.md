@@ -37,9 +37,9 @@ My motto: Keep your feet on the ground and look up at the stars
 
 <!--START_SECTION:waka-->
 ```text
-Go           2 hrs 25 mins   ████████████░░░░░░░░░░░░░   47.53 % 
-Vue.js       2 hrs 11 mins   ██████████▓░░░░░░░░░░░░░░   42.97 % 
-JSON         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Go           4 hrs 39 mins   ████████████████░░░░░░░░░   63.47 % 
+Vue.js       2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 % 
+JSON         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
