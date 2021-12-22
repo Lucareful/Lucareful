@@ -37,10 +37,10 @@ My motto: Keep your feet on the ground and look up at the stars
 
 <!--START_SECTION:waka-->
 ```text
-Go           8 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   32.43 % 
-YAML         4 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue.js       3 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JavaScript   2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Docker       2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+YAML       8 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.93 % 
+Go         4 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Vue.js     3 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Docker     2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+textmate   1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 <!--END_SECTION:waka-->
