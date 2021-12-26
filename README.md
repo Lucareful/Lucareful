@@ -37,10 +37,10 @@ My motto: Keep your feet on the ground and look up at the stars
 
 <!--START_SECTION:waka-->
 ```text
-YAML                       14 hrs 28 mins  █████████████░░░░░░░░░░░░   51.94 % 
-Go                         5 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
-JSON                       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Nginx configuration file   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Vue.js                     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+YAML                       14 hrs 28 mins  █████████████▒░░░░░░░░░░░   53.66 % 
+Go                         4 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+JSON                       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Nginx configuration file   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Vue.js                     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 ```
 <!--END_SECTION:waka-->
