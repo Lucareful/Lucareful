@@ -37,10 +37,10 @@ My motto: Keep your feet on the ground and look up at the stars
 
 <!--START_SECTION:waka-->
 ```text
-Go                19 hrs 15 mins  ██████████████████▒░░░░░░   72.84 % 
-JavaScript        4 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Vue.js            1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Protocol Buffer   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-protobuf          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Go                15 hrs 48 mins  ███████████████▓░░░░░░░░░   63.24 % 
+JavaScript        5 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.70 % 
+Vue.js            2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Protocol Buffer   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+protobuf          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 <!--END_SECTION:waka-->
