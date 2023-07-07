@@ -10,6 +10,10 @@ I like Python and Golang , Love programming.
 
 My motto: Keep your feet on the ground and look up at the stars
 
+## Github Overview
+
+<img align="left" alt="Lucareful Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucareful&count_private=true&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucareful&layout=compact&&hide=css,html)](https://github.com/Lucareful) 
 
 ## :computer: Programming languages and tools: 
 
@@ -28,13 +32,6 @@ My motto: Keep your feet on the ground and look up at the stars
 	<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
 
-## Github Overview
-
-<img align="left" alt="Lucareful Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucareful&count_private=true&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucareful&layout=compact&&hide=css,html)](https://github.com/Lucareful) 
-
-	
-	
 #### Coding status last week ⌨️
 <!--START_SECTION:waka-->
 ```text
