@@ -13,7 +13,7 @@ My motto: Keep your feet on the ground and look up at the stars
 ## Github Overview
 
 <img align="left" alt="Lucareful Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucareful&count_private=true&show_icons=true&rank_icon=github" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucareful&layout=compact&&hide=css,html)](https://github.com/Lucareful) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucareful&layout=compact&&hide=css,html)](https://github.com/Lucareful) </br>
 
 
 ## :computer: Programming languages and tools: 
