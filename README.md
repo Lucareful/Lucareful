@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lucareful)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucarful@gmail.com)
 
-Welcome to my Github page! I'm A back-end development engineer.
+Welcome to my Github page! I'm a back-end development engineer.
 
 I like Python and Golang , Love programming.
 
