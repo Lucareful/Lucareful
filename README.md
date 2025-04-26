@@ -8,7 +8,7 @@ Welcome to my Github page! I'm a back-end development engineer.
 
 I like Python and Golang , Love programming.
 
-My motto: Keep your feet on the ground and look up at the stars
+My motto: An apple a day, keeps doctor away.
 
 ## Github Overview
 
